@@ -1,0 +1,3226 @@
+fileFormatVersion: 2
+guid: be785b53e8101134cb49e391918a7a82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7697879543379296236
+    second: PillarTall1_Minifantasy_ForgottenPlainsProps_0
+  - first:
+      213: -1811582006850511466
+    second: PillarTall2_Minifantasy_ForgottenPlainsProps_1
+  - first:
+      213: 838083816341856049
+    second: PillarTall3_Minifantasy_ForgottenPlainsProps_2
+  - first:
+      213: -358168442467875079
+    second: PillarMedium1_Minifantasy_ForgottenPlainsProps_3
+  - first:
+      213: -702854666901177391
+    second: PillarMedium2_Minifantasy_ForgottenPlainsProps_4
+  - first:
+      213: -6630695369954485499
+    second: PillarMedium3_Minifantasy_ForgottenPlainsProps_5
+  - first:
+      213: -439496800248428465
+    second: PillarShort1_Minifantasy_ForgottenPlainsProps_6
+  - first:
+      213: 5963528090424751413
+    second: PillarMedium4_Minifantasy_ForgottenPlainsProps_7
+  - first:
+      213: 2949759686383389126
+    second: PillarShort2_Minifantasy_ForgottenPlainsProps_8
+  - first:
+      213: -3953209486756653526
+    second: TreeNoApples__Minifantasy_ForgottenPlainsProps_9
+  - first:
+      213: 5407167949813686853
+    second: Wall7_Minifantasy_ForgottenPlainsProps_10
+  - first:
+      213: -3224202456533794196
+    second: Wall1_Minifantasy_ForgottenPlainsProps_11
+  - first:
+      213: 6972190123475480336
+    second: Creeper1_Minifantasy_ForgottenPlainsProps_12
+  - first:
+      213: -8763836129941271082
+    second: Creeper2_Minifantasy_ForgottenPlainsProps_13
+  - first:
+      213: -4222553177948739811
+    second: Creeper3_Minifantasy_ForgottenPlainsProps_14
+  - first:
+      213: -6095646586433703057
+    second: Creeper4_Minifantasy_ForgottenPlainsProps_15
+  - first:
+      213: -6257515481187279047
+    second: Creeper5_Minifantasy_ForgottenPlainsProps_16
+  - first:
+      213: 7943778286642929983
+    second: Creeper6_Minifantasy_ForgottenPlainsProps_17
+  - first:
+      213: -7485240063669998773
+    second: Creeper7_Minifantasy_ForgottenPlainsProps_18
+  - first:
+      213: -537874932439381219
+    second: Creeper8_Minifantasy_ForgottenPlainsProps_19
+  - first:
+      213: 1339536321328131832
+    second: TreeApples_Minifantasy_ForgottenPlainsProps_20
+  - first:
+      213: 7825206905049106096
+    second: Wall19_Minifantasy_ForgottenPlainsProps_21
+  - first:
+      213: 6349360267525728516
+    second: FlowerPink_Minifantasy_ForgottenPlainsProps_22
+  - first:
+      213: -7623661144529183703
+    second: Cattail1_Minifantasy_ForgottenPlainsProps_23
+  - first:
+      213: 4877495625615747448
+    second: Cattail2_Minifantasy_ForgottenPlainsProps_24
+  - first:
+      213: -8278581524229224121
+    second: FlowerRed_Minifantasy_ForgottenPlainsProps_25
+  - first:
+      213: 7733943634869700832
+    second: FlowerWhite_Minifantasy_ForgottenPlainsProps_26
+  - first:
+      213: -6474741099014325866
+    second: GrassLong1_Minifantasy_ForgottenPlainsProps_27
+  - first:
+      213: 639047068651763350
+    second: GrassLong2_Minifantasy_ForgottenPlainsProps_28
+  - first:
+      213: 6088871536541796103
+    second: Wall9_Minifantasy_ForgottenPlainsProps_29
+  - first:
+      213: 2677867984281861092
+    second: Wall18_Minifantasy_ForgottenPlainsProps_34
+  - first:
+      213: 4482459298659459441
+    second: Wall4_Minifantasy_ForgottenPlainsProps_35
+  - first:
+      213: -8985720995205051461
+    second: Wall6_Minifantasy_ForgottenPlainsProps_36
+  - first:
+      213: -7807294356514840209
+    second: WallRed1_Minifantasy_ForgottenPlainsProps_37
+  - first:
+      213: -2122650735851622514
+    second: WallRed2_Minifantasy_ForgottenPlainsProps_38
+  - first:
+      213: -2191250356634507032
+    second: Wall6_Minifantasy_ForgottenPlainsProps_39
+  - first:
+      213: -9059199442988133130
+    second: Wall20_Minifantasy_ForgottenPlainsProps_40
+  - first:
+      213: -1832026396692270948
+    second: Wall21_Minifantasy_ForgottenPlainsProps_44
+  - first:
+      213: 6364321708110717860
+    second: Wall22_Minifantasy_ForgottenPlainsProps_45
+  - first:
+      213: -1260964307869511543
+    second: Wall8_Minifantasy_ForgottenPlainsProps_46
+  - first:
+      213: -1028136048825651875
+    second: Wall10_Minifantasy_ForgottenPlainsProps_47
+  - first:
+      213: 659129057290191308
+    second: Wall12_Minifantasy_ForgottenPlainsProps_49
+  - first:
+      213: 8078921149560878582
+    second: Wall13_Minifantasy_ForgottenPlainsProps_50
+  - first:
+      213: 3123583176092752116
+    second: Wall14_Minifantasy_ForgottenPlainsProps_51
+  - first:
+      213: -9051523260627767429
+    second: Wall11_Minifantasy_ForgottenPlainsProps_52
+  - first:
+      213: 5936223391749785790
+    second: Wall15_Minifantasy_ForgottenPlainsProps_54
+  - first:
+      213: 5089149202751804329
+    second: Wall16_Minifantasy_ForgottenPlainsProps_55
+  - first:
+      213: -4412215126660022261
+    second: Wall17_Minifantasy_ForgottenPlainsProps_30
+  - first:
+      213: -3076916908359153861
+    second: Wall2_Minifantasy_ForgottenPlainsProps_31
+  - first:
+      213: -1480178468262523555
+    second: Wall3_Minifantasy_ForgottenPlainsProps_32
+  - first:
+      213: -76250758586407073
+    second: Wall5_Minifantasy_ForgottenPlainsProps_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010db2fd762df7498928f09285f30f8
+      internalID: 264258568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5b6f1e97e7bb840b249b4795a07897
+      internalID: -1809893160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b71d1b560967d4db9f5bd5e826a80a
+      internalID: -158411247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca224138d06a04f89c0ffe93b3b723
+      internalID: -1791204229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6709186d98193846b5b829f32d6d701
+      internalID: 1183088956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ac937136364f946816a28f669bb017
+      internalID: 198071738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ab6b1647a99c4aa2ae7a3fb906b39
+      internalID: -1280060727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3895c09d3f5f4c9fbc598f0fac0ca
+      internalID: -718066383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84627b2997e6b2478de3935cee5fce7
+      internalID: 39647913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a776d33cc9044fb7328c6086fc52b
+      internalID: 1008149240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d406b22e6e9ccbb4aabeb5b20678328d
+      internalID: -674722379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e32be709d538946910961078ea8dcc
+      internalID: 1905802752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c85a2709a828143b2d800d2e267ad0
+      internalID: -957834372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0045925a5465e48b253e972a0462b5
+      internalID: -987588034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd6d6fc1b9a244d9b0cac87bd067fc
+      internalID: -728815722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c871d711cc44240aa5064140ad191d
+      internalID: -779947846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6bd0bc47bb33f498cc3094c000f0ae
+      internalID: 337760140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be16978151989a4db41c3d4d28d3ea3
+      internalID: -491727317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc6881408ffa94eb94ed586ebafa68
+      internalID: 571979661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ecdb7020caf4448e103ab041e2be4
+      internalID: -108378022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3bdbf462c800a48bc434ca76d0095a
+      internalID: -1739668865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db52746e15cc84bad1400477ae3649
+      internalID: 199346352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335e685f9ce97746bcbb0dc471402bd
+      internalID: -1981899914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c8947678f6ad844bd7b1fc81097c81
+      internalID: 1173374461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa61dca3e215cf94789d4415a65a8992
+      internalID: -1994088139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14bbd58449f6f2418ff334aa4a2ec06
+      internalID: -158143220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d40e98a91ed045a885456c33c27b3
+      internalID: -385141188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3fd8d4fc27d5449df766a561197f5
+      internalID: 294120906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77503299ba65c2c4abb7dfa1330de003
+      internalID: 477862753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ea63ab19282d4a808bf59ab3b7673
+      internalID: -1440983158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fb7940c59eb3e4388aa22e4d0009bc
+      internalID: 491223402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398856690bee7ad43bf95a205dc14d87
+      internalID: 488245341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8452c677b946ee04f9d432c11d85a9a4
+      internalID: -563371975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce3983f6632cda44b5eeea1a6a0b047
+      internalID: 905614896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ee6c168261ec4587dd6f7bd7daba5
+      internalID: -718851179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82d5188cb6e66848ad18cad29d558ba
+      internalID: -1812800646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfae8f2c017b7fa4ebbbcc4209993ef5
+      internalID: -1262998241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e343643baeae367478aababd666db78a
+      internalID: -1003930119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f848daa1488a354fbde612c0f07490c
+      internalID: 2135516854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a6650b74093c4b899cb0032f365c2
+      internalID: 739924524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbcf7e094649a14485550dcaf3cf985
+      internalID: -2106936262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5956a8cde3d5974198dc3c81e03d61f
+      internalID: -122353360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d491412f8f738340ad48572feb6e44b
+      internalID: 144274752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe2edf5fad1cf4ea0aaef29deb8cf7
+      internalID: 990423468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1133d271310c56468ea29bd87baf8c4
+      internalID: -1668378072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab69e3de5609c7408c77adc22b70345
+      internalID: 2059057040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e3bfcef8135a4b8ea64015fb9dfac
+      internalID: 25912753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770e63b28ed950e4398324e0aa64f339
+      internalID: 1494933422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac4daadfcd3aac4a87141b1dee9572f
+      internalID: -1950540206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1496aa3d939fb48a759f52d3c35606
+      internalID: -1413127512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a1b12c02514f4890b03e4d94fc676
+      internalID: 1931819075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d17164b3b18c4488b8f0ed3cdecbc
+      internalID: -885088079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66f0c8c2c291a49b768efc0db1e7ec
+      internalID: -229864145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa456234dcb7d418730ce0c6053124
+      internalID: -1423360113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d6d5676185a24c90b97d8bef1db58
+      internalID: -1987591783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891951e9fc5b7064b8230a9fcce838c0
+      internalID: -93304372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ecba5d71d3f7a43b14a0346e912112
+      internalID: -623807764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064fb6af9331f845bf713013de1ec10
+      internalID: -719499249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73e29bbff9121f43bc8d608482e3b54
+      internalID: -1290404525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a99accdbb01247893a9159c27aedb
+      internalID: 1802142714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51680f3852cd1841850376330f72df1
+      internalID: 1209535010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177928c31822657429b9e13ecd93dfe7
+      internalID: -1818232998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5999dd46687677443895d353c75194f6
+      internalID: -1591414284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35fd9aad95eb04d9b349ef04ab6d63
+      internalID: -1576027930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539ca3b327ab784a8055c6705c6352d
+      internalID: 1415755305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdac5ffa206c0f47b632c7fc944ebf8
+      internalID: -1465790462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_66
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3cf3a78ec5d14e87930a3b7a7e5f6
+      internalID: 117745153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feea15e795610c4cb93130a0117d035
+      internalID: -1279074747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfba72d48015d0449e8a56a568e324c
+      internalID: 1567783062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515ba0c0f014a14087ede4d5c47168f
+      internalID: -467413862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c907b8009e313f44c9e23485cfb80c3d
+      internalID: -807941947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f5add0f043413469c447e23450ee03
+      internalID: -1579479038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e713663b0e603847a055af0a2ee67d3
+      internalID: -61118846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d457fa45a6463114ab216072711346f3
+      internalID: -1928886290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0c035e2714de448c5b206134cbde1
+      internalID: 68097716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_75
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b366a2afaf6f34da88704b42bbec51
+      internalID: -447537617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df8477ad614eb14cbf135590406e828
+      internalID: -247942135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595a2bd039bebb468c725eed05f0938
+      internalID: 193250525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fea9e369ae0e634bb0ca577e9bdb61b
+      internalID: 880723984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56cbaa9043c20242a3cfa1009d5fee9
+      internalID: -1733640147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824ababa2fe82f47808f2998c02343d
+      internalID: -1077532687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47441b1897a82546aab89d8983a29b9
+      internalID: -700824736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bfbb1dc0b147f48a59a9e54730d443
+      internalID: 548200031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5752bc3487aea4486d0f4e90ed7d8f
+      internalID: -695599941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef62f1aa4a5ea4439ab8daff2afdf43
+      internalID: -2039410513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1cbf34741b941429f2921840f526b0
+      internalID: -1192750004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec583f9a84911e4492a80e4db04ed70
+      internalID: -1690259286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_87
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c15e97834f7a14b85fd4068a87f423
+      internalID: -1326669721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622541c2ce71194c903ef5a17f70c07
+      internalID: 1622791979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7269dc519aed04c908591b6fc2cfb8
+      internalID: 1390335409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2075ab18189dfcd41bfa7a333d83e3a1
+      internalID: 1108004293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d547a7dba0b819479c31618867a90ae
+      internalID: 195283159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0cd684cbbf8d4fb922dc67a43c41a
+      internalID: -1338252269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b2f679cc2955442897639810deaed1
+      internalID: -1918060406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34d26345980074b81bed2e46d0f07e
+      internalID: -862998402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c12a0e97613a541ac0d1d23b07d284
+      internalID: -1458338269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d4e35e0ab3f74b8cc2ec14a422d0f
+      internalID: 828796069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_97
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8004166128a1d014ea5153a6d4b81feb
+      internalID: 1948820881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c4338c0af4914b91ac9116ec11cba
+      internalID: -1848673221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf336a9032f914ebf31676553a0cf3
+      internalID: 1753709446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d716b575a95d44d8f82ee90de29951
+      internalID: -500702132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_101
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e9bb228ba21748b293c17d46891b5
+      internalID: 507188003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9be84849a7e346ab26e09828ea9bc
+      internalID: 1789855546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687efc200e5ee3349a807ca1fe1fd0a3
+      internalID: -158272356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4044ffd80334d304a8734c77f77d8f02
+      internalID: -1503394343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9fa89932c85be4d9dd24643056ff36
+      internalID: 445971958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48c24035ec2164292ec33e9fa45def
+      internalID: -1697461536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655a7c3876a715647ac0936e828262f9
+      internalID: 324893938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950e1b72d393b0469e5063368fd613b
+      internalID: -614922172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e1c86c221e1ef42a5479a9ba4d6398
+      internalID: -1647930058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1569c142114febd4a9f8e261cab92252
+      internalID: -654885534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51e43ae6d9077b47b7bfc7a63015fcd
+      internalID: 810252332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696d00f51d0bc094c93535f74b625c29
+      internalID: -682362457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1bf900cc37b64ba823e9c25509bd4
+      internalID: 831876189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea005d0ab86ac44aaccf592d7609b01
+      internalID: -1318134095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe1fdf3e1ed644f871dbd2e58f4f71
+      internalID: 259269077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa338230b9cb94d9edb20b3bb53aa1
+      internalID: 475374104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c10d78fc8998b45ba8b14d9293fe21
+      internalID: -1124542289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17a99c964b77043bfbd7598b7c0029
+      internalID: 939656714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d207e91a7b6ea4b99dd5fb38002c60
+      internalID: 1237262828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1851198ea0ec71478e629f006a40df9
+      internalID: 1196668463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc070a9f89693f47a2c1e6d3bd54121
+      internalID: 588781148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7e31cc2137ff4db080454259b574c
+      internalID: 2025541822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_123
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31853e7895d60ef45bb41bf4fac6b82a
+      internalID: 1079740584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f636765c899f4d95507e937dc5ef3
+      internalID: -1230520222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_125
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832140dc2ddca8c428baa365371e9c0f
+      internalID: 1043502707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_126
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab6c38e198ba441b5e51923c817462
+      internalID: 137349115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5a97bb1ae6e14dab6333d5dfefdfe
+      internalID: 766612727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_128
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca3ec059d143449af62b0f096222f4
+      internalID: -1953977226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d568d2e14f8381949b84ae48c51ec357
+      internalID: 1626874444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de60f1409ed3b3b46a31018783607079
+      internalID: -1158987338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69184a02516638341906a691e9ddc0de
+      internalID: -854861544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_ForgottenPlainsProps_132
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2430e9cfa7895499b8e4c9b6f96bf6
+      internalID: -1163124010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Minifantasy_ForgottenPlainsProps_125: 1043502707
+      Minifantasy_ForgottenPlainsProps_30: 491223402
+      Minifantasy_ForgottenPlainsProps_105: 445971958
+      Minifantasy_ForgottenPlainsProps_113: 831876189
+      Minifantasy_ForgottenPlainsProps_110: -654885534
+      Minifantasy_ForgottenPlainsProps_31: 488245341
+      Minifantasy_ForgottenPlainsProps_94: -862998402
+      Minifantasy_ForgottenPlainsProps_96: 828796069
+      Minifantasy_ForgottenPlainsProps_115: 259269077
+      Minifantasy_ForgottenPlainsProps_11: 1905802752
+      Minifantasy_ForgottenPlainsProps_45: 2059057040
+      Minifantasy_ForgottenPlainsProps_4: 1183088956
+      Minifantasy_ForgottenPlainsProps_78: 880723984
+      Minifantasy_ForgottenPlainsProps_9: 1008149240
+      Minifantasy_ForgottenPlainsProps_60: 1209535010
+      Minifantasy_ForgottenPlainsProps_97: 1948820881
+      Minifantasy_ForgottenPlainsProps_93: -1918060406
+      Minifantasy_ForgottenPlainsProps_86: -1690259286
+      Minifantasy_ForgottenPlainsProps_15: -779947846
+      Minifantasy_ForgottenPlainsProps_127: 766612727
+      Minifantasy_ForgottenPlainsProps_99: 1753709446
+      Minifantasy_ForgottenPlainsProps_13: -987588034
+      Minifantasy_ForgottenPlainsProps_112: -682362457
+      Minifantasy_ForgottenPlainsProps_17: -491727317
+      Minifantasy_ForgottenPlainsProps_34: -718851179
+      Minifantasy_ForgottenPlainsProps_128: -1953977226
+      Minifantasy_ForgottenPlainsProps_131: -854861544
+      Minifantasy_ForgottenPlainsProps_56: -623807764
+      Minifantasy_ForgottenPlainsProps_104: -1503394343
+      Minifantasy_ForgottenPlainsProps_32: -563371975
+      Minifantasy_ForgottenPlainsProps_55: -93304372
+      Minifantasy_ForgottenPlainsProps_95: -1458338269
+      Minifantasy_ForgottenPlainsProps_87: -1326669721
+      Minifantasy_ForgottenPlainsProps_62: -1591414284
+      Minifantasy_ForgottenPlainsProps_19: -108378022
+      Minifantasy_ForgottenPlainsProps_21: 199346352
+      Minifantasy_ForgottenPlainsProps_90: 1108004293
+      Minifantasy_ForgottenPlainsProps_47: 1494933422
+      Minifantasy_ForgottenPlainsProps_84: -2039410513
+      Minifantasy_ForgottenPlainsProps_51: -885088079
+      Minifantasy_ForgottenPlainsProps_3: -1791204229
+      Minifantasy_ForgottenPlainsProps_39: 739924524
+      Minifantasy_ForgottenPlainsProps_5: 198071738
+      Minifantasy_ForgottenPlainsProps_25: -158143220
+      Minifantasy_ForgottenPlainsProps_58: -1290404525
+      Minifantasy_ForgottenPlainsProps_72: -61118846
+      Minifantasy_ForgottenPlainsProps_114: -1318134095
+      Minifantasy_ForgottenPlainsProps_81: -700824736
+      Minifantasy_ForgottenPlainsProps_61: -1818232998
+      Minifantasy_ForgottenPlainsProps_101: 507188003
+      Minifantasy_ForgottenPlainsProps_50: 1931819075
+      Minifantasy_ForgottenPlainsProps_92: -1338252269
+      Minifantasy_ForgottenPlainsProps_65: -1465790462
+      Minifantasy_ForgottenPlainsProps_67: -1279074747
+      Minifantasy_ForgottenPlainsProps_53: -1423360113
+      Minifantasy_ForgottenPlainsProps_126: 137349115
+      Minifantasy_ForgottenPlainsProps_73: -1928886290
+      Minifantasy_ForgottenPlainsProps_29: -1440983158
+      Minifantasy_ForgottenPlainsProps_89: 1390335409
+      Minifantasy_ForgottenPlainsProps_98: -1848673221
+      Minifantasy_ForgottenPlainsProps_106: -1697461536
+      Minifantasy_ForgottenPlainsProps_49: -1413127512
+      Minifantasy_ForgottenPlainsProps_75: -447537617
+      Minifantasy_ForgottenPlainsProps_82: 548200031
+      Minifantasy_ForgottenPlainsProps_52: -229864145
+      Minifantasy_ForgottenPlainsProps_130: -1158987338
+      Minifantasy_ForgottenPlainsProps_100: -500702132
+      Minifantasy_ForgottenPlainsProps_33: 905614896
+      Minifantasy_ForgottenPlainsProps_44: -1668378072
+      Minifantasy_ForgottenPlainsProps_68: 1567783062
+      Minifantasy_ForgottenPlainsProps_63: -1576027930
+      Minifantasy_ForgottenPlainsProps_12: -957834372
+      Minifantasy_ForgottenPlainsProps_108: -614922172
+      Minifantasy_ForgottenPlainsProps_85: -1192750004
+      Minifantasy_ForgottenPlainsProps_109: -1647930058
+      Minifantasy_ForgottenPlainsProps_102: 1789855546
+      Minifantasy_ForgottenPlainsProps_14: -728815722
+      Minifantasy_ForgottenPlainsProps_26: -385141188
+      Minifantasy_ForgottenPlainsProps_71: -1579479038
+      Minifantasy_ForgottenPlainsProps_48: -1950540206
+      Minifantasy_ForgottenPlainsProps_37: -1003930119
+      Minifantasy_ForgottenPlainsProps_76: -247942135
+      Minifantasy_ForgottenPlainsProps_6: -1280060727
+      Minifantasy_ForgottenPlainsProps_91: 195283159
+      Minifantasy_ForgottenPlainsProps_64: 1415755305
+      Minifantasy_ForgottenPlainsProps_77: 193250525
+      Minifantasy_ForgottenPlainsProps_120: 1196668463
+      Minifantasy_ForgottenPlainsProps_42: 144274752
+      Minifantasy_ForgottenPlainsProps_83: -695599941
+      Minifantasy_ForgottenPlainsProps_18: 571979661
+      Minifantasy_ForgottenPlainsProps_59: 1802142714
+      Minifantasy_ForgottenPlainsProps_103: -158272356
+      Minifantasy_ForgottenPlainsProps_129: 1626874444
+      Minifantasy_ForgottenPlainsProps_54: -1987591783
+      Minifantasy_ForgottenPlainsProps_35: -1812800646
+      Minifantasy_ForgottenPlainsProps_117: -1124542289
+      Minifantasy_ForgottenPlainsProps_40: -2106936262
+      Minifantasy_ForgottenPlainsProps_38: 2135516854
+      Minifantasy_ForgottenPlainsProps_7: -718066383
+      Minifantasy_ForgottenPlainsProps_1: -1809893160
+      Minifantasy_ForgottenPlainsProps_41: -122353360
+      Minifantasy_ForgottenPlainsProps_88: 1622791979
+      Minifantasy_ForgottenPlainsProps_20: -1739668865
+      Minifantasy_ForgottenPlainsProps_46: 25912753
+      Minifantasy_ForgottenPlainsProps_79: -1733640147
+      Minifantasy_ForgottenPlainsProps_24: -1994088139
+      Minifantasy_ForgottenPlainsProps_16: 337760140
+      Minifantasy_ForgottenPlainsProps_2: -158411247
+      Minifantasy_ForgottenPlainsProps_118: 939656714
+      Minifantasy_ForgottenPlainsProps_23: 1173374461
+      Minifantasy_ForgottenPlainsProps_27: 294120906
+      Minifantasy_ForgottenPlainsProps_36: -1262998241
+      Minifantasy_ForgottenPlainsProps_28: 477862753
+      Minifantasy_ForgottenPlainsProps_111: 810252332
+      Minifantasy_ForgottenPlainsProps_22: -1981899914
+      Minifantasy_ForgottenPlainsProps_116: 475374104
+      Minifantasy_ForgottenPlainsProps_121: 588781148
+      Minifantasy_ForgottenPlainsProps_122: 2025541822
+      Minifantasy_ForgottenPlainsProps_10: -674722379
+      Minifantasy_ForgottenPlainsProps_124: -1230520222
+      Minifantasy_ForgottenPlainsProps_119: 1237262828
+      Minifantasy_ForgottenPlainsProps_107: 324893938
+      Minifantasy_ForgottenPlainsProps_70: -807941947
+      Minifantasy_ForgottenPlainsProps_8: 39647913
+      Minifantasy_ForgottenPlainsProps_80: -1077532687
+      Minifantasy_ForgottenPlainsProps_132: -1163124010
+      Minifantasy_ForgottenPlainsProps_66: 117745153
+      Minifantasy_ForgottenPlainsProps_43: 990423468
+      Minifantasy_ForgottenPlainsProps_57: -719499249
+      Minifantasy_ForgottenPlainsProps_0: 264258568
+      Minifantasy_ForgottenPlainsProps_123: 1079740584
+      Minifantasy_ForgottenPlainsProps_74: 68097716
+      Minifantasy_ForgottenPlainsProps_69: -467413862
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
